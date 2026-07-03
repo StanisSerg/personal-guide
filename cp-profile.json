@@ -1,0 +1,22 @@
+{
+  "stage": 3,
+  "stage_name": "Систематический",
+  "bottleneck_slot": "cp.rhy",
+  "bottleneck_label_ru": "регулярность и ритм занятий",
+  "recommended_stream": "S3",
+  "recommended_stream_label": "Масштаб",
+  "cp_scores": {
+    "cp.rhy": 3,
+    "cp.wld": 3,
+    "cp.skl": 3,
+    "cp.iwe": 3,
+    "cp.int": 3,
+    "cp.agt": 3
+  },
+  "source": "self_report",
+  "interface": "kimi-cli-manual",
+  "rcs_version": "v4.2",
+  "questions_count": 6,
+  "assessed_at": "2026-07-04",
+  "valid_until": "2026-12-31"
+}
